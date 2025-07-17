@@ -63,6 +63,7 @@ At the end of each development cycle:
 | `config/`   | Shared infrastructure packages and configurations.                             |
 | `packages/` | Shared code packages covering UI, shared functionality, and shared utilities.  |
 
+
 ## 🙌 Community Contributions
 
 We welcome contributions from the community!  
