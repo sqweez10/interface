@@ -62,3 +62,9 @@ At the end of each development cycle:
 | `apps/`     | The home for each standalone application.                                      |
 | `config/`   | Shared infrastructure packages and configurations.                             |
 | `packages/` | Shared code packages covering UI, shared functionality, and shared utilities.  |
+
+## 🙌 Community Contributions
+
+We welcome contributions from the community!  
+If you find a typo, have an idea for improving documentation, or want to suggest a small enhancement, feel free to open an issue or submit a pull request.  
+Your input helps make this project better for everyone. 💜
